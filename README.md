@@ -1,6 +1,6 @@
-# APL-RAG Verification Lab
+# Verification Lab
 
-This repository hosts a series of isolated, reproducible experiments demonstrating the verification and integrity guarantees of the APL-RAG retrieval pipeline.
+This repository hosts a series of isolated, reproducible experiments demonstrating verification and integrity guarantees of the retrieval pipeline.
 
 Each subdirectory contains a standalone reproducibility pack with executable code, results, figures, and dependency specifications.
 
