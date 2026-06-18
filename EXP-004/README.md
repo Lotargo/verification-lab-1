@@ -3,8 +3,8 @@
 Reproducibility package and documentation for experiment EXP-004.
 
 ## Documents
+- **Experimental Report**: [EXP004_sat_challenge.md](./EXP-004-alpha-reproducibility-pack/exp_docs/EXP004_sat_challenge.md)
 - **Reproducibility Pack**: [EXP-004-alpha-reproducibility-pack.zip](./EXP-004-alpha-reproducibility-pack.zip)
-- **Experimental Report**: [EXP004_sat_challenge.md](./EXP-004-alpha-reproducibility-pack.zip/exp_docs/EXP004_sat_challenge.md) (inside the pack)
 
 ## Reproduction
 ```bash
